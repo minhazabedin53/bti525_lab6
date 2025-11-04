@@ -1,6 +1,6 @@
 {
   "name": "fragments-service",
-  "version": "1.0.0",
+  "version": "0.7.0",
   "description": "Fragments microservice for Seneca BTI525",
   "main": "src/server.js",
   "type": "module",
